@@ -36,9 +36,13 @@ Polynomial Regression (Bonus)
 Feature Comparison (Bonus)
 
 📈 Results
+
 Model	R² Score
+
 Linear Regression	0.23
+
 Polynomial Regression	0.23
+
 Multiple Linear Regression	0.25
 
 🧠 Conclusion
