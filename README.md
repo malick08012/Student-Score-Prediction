@@ -1,6 +1,10 @@
 # Student Score Prediction using Linear Regression:
 A machine learning project focused on predicting student outcomes using the Student Performance Factors dataset.  Can we predict final exam scores using study hours and lifestyle data? Explore this regression-based project to see how features like study time and previous score and exam score impact student performance.
 
+🎯 Objective of the Task:
+
+The primary objective of this project is to analyze the relationship between study hours and exam scores and build a predictive model using Linear Regression. The project aims to understand how effectively study hours can explain variations in students’ academic performance and to evaluate model accuracy using standard regression metrics such as MAE, RMSE, and R² score.
+
 📊 Dataset:
 
 Source: Kaggle – Student Performance Factors
